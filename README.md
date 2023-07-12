@@ -144,8 +144,8 @@ Party Finder Descriptions
     </tr>
     <tr>
         <td>予習</td>
-        <td>Prepared/Preparation</td>
-        <td></td>
+        <td>Preparation</td>
+        <td>Usually combined with 未 or 済.</td>
     </tr>
     <tr>
         <td>消化</td>
