@@ -68,29 +68,90 @@ Party Finder Descriptions
         </td>
     </tr>
     <tr>
+        <td>フリロ</td>
+        <td>Free roll (FFA) loot system</td>
+        <td></td>
+    </tr>
+    <tr>
         <td>取り抜け</td>
         <td>Leave after you win a piece of loot.</td>
         <td> Usually L>R (Left to Right) loot system but they might specify otherwise in the PF description.</td>
     </tr>
     <tr>
-        <td>Japanese</td>
-        <td>English</td>
-        <td>Comment</td>
+        <td>初見</td>
+        <td>First time</td>
+        <td></td>
     </tr>
     <tr>
-        <td>Japanese</td>
-        <td>English</td>
-        <td>Comment</td>
+        <td>練習</td>
+        <td>Practice</td>
+        <td></td>
     </tr>
     <tr>
-        <td>Japanese</td>
-        <td>English</td>
-        <td>Comment</td>
+        <td>クリア目的</td>
+        <td>Aim to clear</td>
+        <td>Can be shortened to クリ目.</td>
     </tr>
     <tr>
-        <td>Japanese</td>
-        <td>English</td>
-        <td>Comment</td>
+        <td>未</td>
+        <td>Not yet (done)</td>
+        <td>Usually combined with 消化 or 予習.</td>
     </tr>
+    <tr>
+        <td>済</td>
+        <td>Already</td>
+        <td>Usually combined with 消化 or 予習.</td>
+    </tr>
+    <tr>
+        <td>予習</td>
+        <td>Prepared/Preparation</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>消化</td>
+        <td>Weekly reclear</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>解散</td>
+        <td>Disband group</td>
+        <td>Usually written like ５滅解散. Meaning disband after 5 wipes.</td>
+    </tr>
+    <tr>
+        <td>飯</td>
+        <td>Food</td>
+        <td>Usually indicates the time they're planning to spend. Example: １飯 is 30/40 minutes.</td>
+    </tr>
+    <tr>
+        <td>武器</td>
+        <td>Weapon</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>箱</td>
+        <td>Coffer/Chest</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>胴</td>
+        <td>Chest</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>他</td>
+        <td>Other</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>〆</td>
+        <td>Taken</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>詰め</td>
+        <td>Parse</td>
+        <td></td>
+    </tr>
+
   
 </table>
