@@ -297,6 +297,36 @@ When the party starts talking about stuff in the chat.
         <td></td>
     </tr>
     <tr>
+        <td>挑発</td>
+        <td>Provoke</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>牽制</td>
+        <td>Feint</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>アドル</td>
+        <td>Addle</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>内丹</td>
+        <td>Second Wind</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>アームズレングス</td>
+        <td>Arm's Length</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>堅実魔</td>
+        <td>Surecast</td>
+        <td></td>
+    </tr>
+    <tr>
         <td>軽減</td>
         <td>Mitigation</td>
         <td></td>
