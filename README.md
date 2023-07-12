@@ -144,7 +144,7 @@ Party Finder Descriptions
     </tr>
     <tr>
         <td>〆</td>
-        <td>Indicates a taken role.</td>
+        <td>Indicates a taken role</td>
         <td></td>
     </tr>
     <tr>
