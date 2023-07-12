@@ -14,7 +14,7 @@ The goal is for people to fully understand Party Finder descriptions and underst
 
 
 
-General
+<b>General</b>
 <table>
     <tr>
         <td>
@@ -263,7 +263,7 @@ General
   
 </table>
 <b>In Duty</b>
-When the party starts talking about stuff in the chat.
+<br>When the party starts talking about stuff in the chat.
 <table>
     <tr>
         <td>
@@ -403,7 +403,7 @@ When the party starts talking about stuff in the chat.
     </tr>
 </table>
 <b>Ultimate Specific</b>
-UCOB
+<br>UCOB
 <table>
     <tr>
         <td>
