@@ -99,17 +99,17 @@ General
     </tr>
     <tr>
         <td>ごめんなさい</td>
-        <td>I'm sorry</td></td>
+        <td>I'm sorry</td>
         <td></td>
     </tr>
     <tr>
         <td>お願いします</td>
-        <td>Please</td></td>
+        <td>Please</td>
         <td>Can mean various things. Primarily used to add courtesy.</td>
     </tr>
     <tr>
         <td>さん</td>
-        <td>Mr./Mrs</td></td>
+        <td>Mr./Mrs.</td>
         <td>Common honorific.</td>
     </tr>
     
@@ -117,7 +117,7 @@ General
   
   
 </table>
-Party Finder Descriptions
+<b>Party Finder Descriptions</b>
 <table>
     <tr>
         <td>
@@ -142,8 +142,13 @@ Party Finder Descriptions
     </tr>
     <tr>
         <td>全パス</td>
-        <td>Passing on everything</td></td>
+        <td>Passing on everything</td>
         <td>Usually used when someone is buying loot, implying you'll pass on everything. Can also mean that the leader passes everything except for the 1 piece that they need.</td>
+    </tr>
+    <tr>
+        <td>層</td>
+        <td>Floor</td>
+        <td>Japanese players count the floors from 1-4, always. If P9-P12 is the latest tier, 9 would be 1, and 12 would be 4.</td>
     </tr>
     <tr>
         <td>初見</td>
@@ -222,39 +227,326 @@ Party Finder Descriptions
     </tr>
     <tr>
         <td>マウント</td>
-        <td>Mount</td></td>
+        <td>Mount</td>
         <td></td>
     </tr>
     <tr>
-        <td>周</td></td>
-        <td>Number of times they'll clear</td></td>
+        <td>周</td>
+        <td>Number of times they'll clear</td>
         <td>Example: 3周 3 Clears.</td>
     </tr>
     <tr>
         <td>半</td>
-        <td>Half</td></td>
+        <td>Half</td>
         <td>Combined with the next 2 to produce 前半 "First half" and 後半 "Second half". Refers to the 2 phases of the last floor.</td>
     </tr>
     <tr>
         <td>前</td>
-        <td>Former</td></td>
+        <td>Former</td>
         <td></td>
     </tr>
     <tr>
         <td>後</td>
-        <td>Latter</td></td>
+        <td>Latter</td>
         <td></td>
     </tr>
     <tr>
         <td>主</td>
-        <td>Party Leader</td></td>
+        <td>Party Leader</td>
         <td></td>
     </tr>
     <tr>
         <td>クロ</td>
-        <td>Wondrous Tails</td></td>
+        <td>Wondrous Tails</td>
         <td></td>
     </tr>
-    
   
+</table>
+<b>In Duty</b>
+When the party starts talking about stuff in the chat.
+<table>
+    <tr>
+        <td>
+            <b>Japanese</b>
+        </td>
+        <td>
+            <b>English</b>
+        </td>
+        <td>
+            <b>Comment</b>
+        </td>
+    </tr>
+    <tr>
+        <td>タンク強攻撃</td>
+        <td>Tank Buster</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>スイッチ</td>
+        <td>Tank swap</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>挑発</td>
+        <td>Provoke</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>シャーク</td>
+        <td>Shirk</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>軽減</td>
+        <td>Mitigation</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>頭割り</td>
+        <td>Stack</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>散開</td>
+        <td>Spread</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>無敵</td>
+        <td>Invulnerability</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ブラナイ</td>
+        <td>The Blackest Night (TBN)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>インビンシブル</td>
+        <td>Hallowed Ground</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>アサイラム</td>
+        <td>Asylum</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>陣</td>
+        <td>Sacred Soil</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>救出</td>
+        <td>Rescue</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>扇型AOE</td>
+        <td>Conal AoE</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>線</td>
+        <td>Tether</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>突進技</td>
+        <td>Gapcloser</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>飛びのき</td>
+        <td>Backflip (BRD/DRG)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>殴れるぎりぎりの遠さで殴ること</td>
+        <td>Max melee</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>誘導</td>
+        <td>Bait</td>
+        <td></td>
+    </tr>
+</table>
+<b>Ultimate Specific</b>
+UCOB
+<table>
+    <tr>
+        <td>
+            <b>Japanese</b>
+        </td>
+        <td>
+            <b>English</b>
+        </td>
+        <td>
+            <b>Comment</b>
+        </td>
+    </tr>
+    <tr>
+        <td>カータライズ</td>
+        <td>Dive Bomb</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ツイスター</td>
+        <td>Twister</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>拘束具</td>
+        <td>Neurolink</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>魔力錬成</td>
+        <td>Orb</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>プラメット</td>
+        <td>Plummet</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>進軍</td>
+        <td>Quickmarch Trio</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>黒煙</td>
+        <td>Blackfire Trio</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>厄災</td>
+        <td>Fellruin Trio</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>天地</td>
+        <td>Heavensfall Trio</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>連撃</td>
+        <td>Tenstrike Trio</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>群竜</td>
+        <td>Grand Octet</td>
+        <td></td>
+    </tr>
+</table>
+UWU
+<table>
+    <tr>
+        <td>
+            <b>Japanese</b>
+        </td>
+        <td>
+            <b>English</b>
+        </td>
+        <td>
+            <b>Comment</b>
+        </td>
+    </tr>
+    <tr>
+        <td>ジェイル</td>
+        <td>Gaol</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>エラプション</td>
+        <td>Eruption</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>楔</td>
+        <td>Nail</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>覚醒</td>
+        <td>Awaken</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>迫撃</td>
+        <td>Predation</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>爆撃 </td>
+        <td>Annihalation</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>乱撃</td>
+        <td>Suppression</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>誘導レーザー</td>
+        <td>Homing Laser</td>
+        <td></td>
+    </tr>
+</table>
+TEA
+<table>
+    <tr>
+        <td>
+            <b>Japanese</b>
+        </td>
+        <td>
+            <b>English</b>
+        </td>
+        <td>
+            <b>Comment</b>
+        </td>
+    </tr>
+    <tr>
+        <td>ヤークト</td>
+        <td>Dolls</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>サイコロ</td>
+        <td>Limit Cut</td>
+        <td>This applies to all Limit Cut mechanics.</td>
+    </tr>
+    <tr>
+        <td>二体フェーズ</td>
+        <td>BJCC Phase</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>水頭割り</td>
+        <td>Water Stack</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>カウント</td>
+        <td>Enumeration</td>
+        <td>This applies to most Enumeration mechanics.</td>
+    </tr>
+    <tr>
+        <td>時間停止 or 時空先行</td>
+        <td>Inception</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>断絶</td>
+        <td>Wormhole</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>パレキ</td>
+        <td>Perfect Alex</td>
+        <td></td>
+    </tr>
 </table>
