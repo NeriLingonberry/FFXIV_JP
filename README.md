@@ -35,7 +35,7 @@ The goal is for people to fully understand Party Finder descriptions and underst
     <tr>
         <td>おはようございます</td>
         <td>Good morning</td>
-        <td>Similar to English, this one is used regardless of if it's a good morning, or not.</td>
+        <td>Similar to English, this one is used regardless of whether it's a good morning, or not.</td>
     </tr>
     <tr>
         <td>こんにちは</td>
