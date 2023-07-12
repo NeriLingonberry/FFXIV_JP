@@ -28,29 +28,69 @@ General
         </td>
     </tr>
     <tr>
+        <td>よろしくお願いします</td>
+        <td>Nice to meet you.</td>
+        <td>This one does not have a good English equivalent. Basically the primary place you'll encounter it is when you join a group, in which case it means "Nice to meet you."</td>
+    </tr>
+    <tr>
+        <td>おはようございます</td>
+        <td>Good morning</td>
+        <td>Similar to English, this one is used regardless of if it's a good morning, or not.</td>
+    </tr>
+    <tr>
+        <td>こんにちは</td>
+        <td>Hi</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>こんばんは</td>
+        <td>Good evening</td>
+        <td></td>
+    </tr>
+    <tr>
         <td>お疲れ様でした</td>
         <td>Thank you for your good work.</td>
         <td>Very common phrase used to show appreciation for the effort someone put in. Expect to see it at the end of every duty. Auto-translates to "Good game!".</td>
     </tr>
     <tr>
-        <td>Japanese</td>
-        <td>English</td>
+        <td>抜けます</td>
+        <td>I'm leaving</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>解散します</td>
+        <td>Disbanding party</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>待ってください</td>
+        <td>Please wait</td>
         <td>Comment</td>
     </tr>
     <tr>
-        <td>Japanese</td>
-        <td>English</td>
-        <td>Comment</td>
+        <td>離席</td>
+        <td>AFK/BRB (literally "leaving my seat")</td>
+        <td>Usually a time is specified like: ５分離席.</td>
     </tr>
     <tr>
-        <td>Japanese</td>
-        <td>English</td>
-        <td>Comment</td>
+        <td>トイレ</td>
+        <td>Bathroom</td>
+        <td></td>
     </tr>
     <tr>
-        <td>Japanese</td>
-        <td>English</td>
-        <td>Comment</td>
+        <td>いてら</td>
+        <td>What people say to see someone off. Example: Someone goes to the bathroom, people say this.</td>
+        <td>Very shortened form of いってらっしゃい.</td>
+    </tr>
+    <tr>
+        <td>おか</td>
+        <td>Welcome back.</td>
+        <td>Shortened version of おかえりなさい.</td>
+    </tr>
+    <tr>
+        <td>戻りました</td>
+        <td>Back (usually from being AFK)</td>
+        <td></td>
     </tr>
   
 </table>
