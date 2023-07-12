@@ -92,6 +92,29 @@ General
         <td>Back (usually from being AFK)</td>
         <td></td>
     </tr>
+    <tr>
+        <td>すみません</td>
+        <td>Excuse me</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ごめんなさい</td>
+        <td>I'm sorry</td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>お願いします</td>
+        <td>Please</td></td>
+        <td>Can mean various things. Primarily used to add courtesy.</td>
+    </tr>
+    <tr>
+        <td>さん</td>
+        <td>Mr./Mrs</td></td>
+        <td>Common honorific.</td>
+    </tr>
+    
+    
+  
   
 </table>
 Party Finder Descriptions
@@ -118,6 +141,11 @@ Party Finder Descriptions
         <td> Usually L>R (Left to Right) loot system but they might specify otherwise in the PF description.</td>
     </tr>
     <tr>
+        <td>全パス</td>
+        <td>Passing on everything</td></td>
+        <td>Usually used when someone is buying loot, implying you'll pass on everything. Can also mean that the leader passes everything except for the 1 piece that they need.</td>
+    </tr>
+    <tr>
         <td>初見</td>
         <td>First time</td>
         <td></td>
@@ -139,7 +167,7 @@ Party Finder Descriptions
     </tr>
     <tr>
         <td>済</td>
-        <td>Already</td>
+        <td>Already (done)</td>
         <td>Usually combined with 消化 or 予習.</td>
     </tr>
     <tr>
@@ -192,6 +220,41 @@ Party Finder Descriptions
         <td>Parse</td>
         <td></td>
     </tr>
-
+    <tr>
+        <td>マウント</td>
+        <td>Mount</td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>周</td></td>
+        <td>Number of times they'll clear</td></td>
+        <td>Example: 3周 3 Clears.</td>
+    </tr>
+    <tr>
+        <td>半</td>
+        <td>Half</td></td>
+        <td>Combined with the next 2 to produce 前半 "First half" and 後半 "Second half". Refers to the 2 phases of the last floor.</td>
+    </tr>
+    <tr>
+        <td>前</td>
+        <td>Former</td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>後</td>
+        <td>Latter</td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>主</td>
+        <td>Party Leader</td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>クロ</td>
+        <td>Wondrous Tails</td></td>
+        <td></td>
+    </tr>
+    
   
 </table>
