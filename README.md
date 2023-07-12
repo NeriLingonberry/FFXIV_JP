@@ -65,7 +65,7 @@ General
     <tr>
         <td>待ってください</td>
         <td>Please wait</td>
-        <td>Comment</td>
+        <td></td>
     </tr>
     <tr>
         <td>離席</td>
