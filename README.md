@@ -1,3 +1,6 @@
+# MOVED TO https://nerilingonberry.github.io/
+
+
 # FFXIV EN JP Glossary
 
 <!-- 
